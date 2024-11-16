@@ -8,13 +8,13 @@
 
 ```javascript
 const aboutMe = {
-    name: "YOUR_NAME",
+    name: "Yodig Nor Rochmad",
     role: "Software Engineer",
     location: "Indonesia",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "PhP"],
     technologies: {
         backEnd: ["Node.js", "Express", "NestJS"],
-        frontEnd: ["React", "Vue.js"],
+        frontEnd: ["React", "Vue.js", "Next.js"],
         database: ["MongoDB", "PostgreSQL", "MySQL"],
         devOps: ["Docker", "Kubernetes", "AWS"],
         testing: ["Jest", "Mocha"]

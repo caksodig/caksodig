@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Selamat Datang di Profil GitHub Saya! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;Backend+Developer;Problem+Solver;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;Frontend+Developer;Backend+Developer;Problem+Solver;Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🚀 Tentang Saya
@@ -54,15 +54,7 @@ const aboutMe = {
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:your.email@domain.com">
+  <a href="mailto:digidg1603.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-### 📈 Contribution Graph
-
-![Snake animation](https://github.com/caksodig/caksodig/blob/output/github-contribution-grid-snake.svg)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=caksodigE&label=Profile%20views&color=2D9596&style=flat" alt="Profile views" />
 </p>

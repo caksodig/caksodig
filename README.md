@@ -27,8 +27,8 @@ const aboutMe = {
 ### 📊 GitHub Statistik
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caksodig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caksodig&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ### 🛠️ Tech Stack
@@ -42,7 +42,7 @@ const aboutMe = {
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=caksodig&theme=tokyonight" alt="Streak stats" />
 </p>
 
 ### 🤝 Mari Terhubung
@@ -61,8 +61,8 @@ const aboutMe = {
 
 ### 📈 Contribution Graph
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/caksodig/caksodig/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=2D9596&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=caksodigE&label=Profile%20views&color=2D9596&style=flat" alt="Profile views" />
 </p>

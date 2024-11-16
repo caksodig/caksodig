@@ -1,12 +1,68 @@
-### Hi Saya Yodig Nor R 👋
+<h1 align="center">👨‍💻 Selamat Datang di Profil GitHub Saya! </h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/singaarimbaa) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=caksodig&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=caksodig&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caksodig&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D9596&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;Backend+Developer;Problem+Solver;Clean+Code+Enthusiast" alt="Typing SVG" />
+</p>
 
----
+### 🚀 Tentang Saya
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```javascript
+const aboutMe = {
+    name: "YOUR_NAME",
+    role: "Software Engineer",
+    location: "Indonesia",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    technologies: {
+        backEnd: ["Node.js", "Express", "NestJS"],
+        frontEnd: ["React", "Vue.js"],
+        database: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["Docker", "Kubernetes", "AWS"],
+        testing: ["Jest", "Mocha"]
+    },
+    currentFocus: "Mengembangkan aplikasi scalable dengan arsitektur mikroservis",
+    funFact: "Bug? Itu fitur yang belum direncanakan 😄"
+};
+```
+
+### 📊 GitHub Statistik
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak stats" />
+</p>
+
+### 🤝 Mari Terhubung
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+### 📈 Contribution Graph
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=2D9596&style=flat" alt="Profile views" />
+</p>

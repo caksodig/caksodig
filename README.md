@@ -27,7 +27,6 @@ const aboutMe = {
 ### 📊 GitHub Statistik
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caksodig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caksodig&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
